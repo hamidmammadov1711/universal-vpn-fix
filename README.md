@@ -81,7 +81,7 @@ These changes are **OS-level**, not application-level.
 3. Execute:
 
 ```powershell
-.\install.ps1
+.\fix_webrtc_vpn.ps1
 
 ```
 
